@@ -1,4 +1,5 @@
-const BASE = 'http://localhost:5001/api';
+
+const BASE = 'https://blog-comment-moderation.onrender.com/api';
 
 export async function api(path, options = {}) {
   const token = localStorage.getItem('token');
