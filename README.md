@@ -2,6 +2,7 @@
 
 A complete beginner-friendly MERN project matching the Blog Comment Moderation requirements.
 render link-https://blog-comment-moderation.onrender.com
+vercel link-https://blog-comment-moderation.vercel.app/
 ## Included
 - Node.js + Express backend
 - MongoDB Atlas
